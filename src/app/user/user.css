@@ -4,3 +4,11 @@ section{
     padding-top: 32px;
     font-size: 24px;
 }
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
